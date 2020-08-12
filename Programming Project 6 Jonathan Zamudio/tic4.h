@@ -2,7 +2,7 @@
 // Purpose:     Header file for the Tic4 class
 //
 // Author:      John Gauch - Created class definition.
-//              YOUR NAME - Completed implementation.
+//              Jonathan Zamudio - Completed implementation.
 //---------------------------------------------------
 
 #include <iostream>

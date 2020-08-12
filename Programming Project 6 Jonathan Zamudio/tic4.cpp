@@ -2,7 +2,7 @@
 // Purpose:     Implementation of the Tic4 class
 //
 // Author:      John Gauch - Created skeleton program.
-//              YOUR NAME - Completed implementation.
+//              Jonathan Zamudio- Completed implementation.
 //---------------------------------------------------
 
 #include "tic4.h"
